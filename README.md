@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m @C-Monaghan
+## 👋 Hi, I’m @C-Monaghan
 
 **Psychologist, Data Scientist, & Chess Player**
 
