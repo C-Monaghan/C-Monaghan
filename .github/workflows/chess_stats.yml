@@ -14,3 +14,4 @@ jobs:
       - uses: Balastrong/chess-stats-action@main
         with:
           CHESS_USERNAME: Ash3nFire
+          GAMES_SIZE: 5
