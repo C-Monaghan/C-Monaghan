@@ -22,6 +22,9 @@
   <a href="mailto:cormacmonaghan@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a> 
 </div>
 
+
+<h3 align="left"> Chess.com stats </h3>
+
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
