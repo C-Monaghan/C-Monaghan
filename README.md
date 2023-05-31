@@ -22,6 +22,10 @@
   <a href="mailto:cormacmonaghan@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a> 
 </div>
 
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
+
 <!---
 C-Monaghan/C-Monaghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
