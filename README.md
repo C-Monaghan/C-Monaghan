@@ -33,13 +33,13 @@
 | Current | 1062 | 835 | 868 |
 | Best | 1102 | 1106 | 921 |
 
-| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Eancient0ne | **Ash3nFire** | resigned ❌ | 31/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/p4ppp/8/3Pp1R1/2P1P3/1PKB1P1P/P7/R7 b - -">Link</a> | Blitz |
-| nathanangxlo | **Ash3nFire** | resigned ❌ | 31/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r1k1/1p3ppp/4p3/B2p2Q1/4b2n/1P6/P4PPP/2R2R1K b - -">Link</a> | Blitz |
-| **Ash3nFire** | nikhilrocky | resigned ❌ | 31/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kp3pp/pp3p2/4p3/1P6/1P1r3P/P4nP1/1K2R3 w - -">Link</a> | Bullet |
-| **Ash3nFire** | Jah420allday | win 🥇 | 31/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/ppqb1ppQ/2n1p1n1/3pP1N1/1P3P2/2P4P/P5P1/RN2K2R b KQ -">Link</a> | Bullet |
-| **Ash3nFire** | pieroz | timeout ❌ | 31/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5qk1/5pp1/p1R5/7Q/P7/6PP/4rb1K/8 w - -">Link</a> | Bullet |
+| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Type 🕕 |
+|:---:|:---:|:---:|:---:|:---:|
+| Eancient0ne | **Ash3nFire** | resigned ❌ | 31/5/2023 | Blitz |
+| nathanangxlo | **Ash3nFire** | resigned ❌ | 31/5/2023 | Blitz |
+| **Ash3nFire** | nikhilrocky | resigned ❌ | 31/5/2023 | Bullet |
+| **Ash3nFire** | Jah420allday | win 🥇 | 31/5/2023 | Bullet |
+| **Ash3nFire** | pieroz | timeout ❌ | 31/5/2023 | Bullet |
 
 <!--END_SECTION:chessStats-->
 
