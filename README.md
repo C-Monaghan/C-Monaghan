@@ -9,7 +9,7 @@
 
 - 🎓 I'm currently a PhD Student at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
 - 🧠 I’m currently working on modelling the predictors and consequences of procrastination in older adults
-- 🌱 I’m currently learning R and Strucural Equation Modelling methods
+- 🌱 I’m currently learning R and Structural Equation Modelling methods
 
 <details>
     <summary>
