@@ -1,29 +1,53 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=C-Monaghan&color=blueviolet" /> </p>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> Hi, I’m @C-Monaghan </h1>
 <h4 align="center"> Psychologist, Data Scientist, & Chess Player </h4>
+<h4 align="center"> Come play in my <a href="https://github.com/C-Monaghan/Chess"> open chess tournament</a></h4>
 
-### Education
-- BSc. Psychology @Maynooth University (2018 - 2022).
-- PhD. <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a> @Maynooth University (2022 - Present). 
+---
 
+<h3 align="left"> About me</h3>
 
-### Interests & Current Work
-- My work involves researching the effects procrastination has on older adults.
-- I am currently using R and structural equation modelling to model the causal pathways of procrastination.
-- I am also investigating both the heath outcomes and financial decision making of older adults who procrastinate.
+- 🎓 I'm currently a PhD Student at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
+- 🧠 I’m currently working on modelling the predictors and consequences of procrastination in older adults
+- 🌱 I’m currently learning R and Strucural Equation Modelling methods
 
+<details>
+    <summary>
+        More about me
+    </summary>
+    
+<h3 align="left"> 🏫 Education </h3>
+<h4 align="left"> Maynooth University </h4>
+<ul>
+    <li> PhD. Data Science (2022 - Present)
+        <ul>
+            <li> Part of <a href="https://www.data-science.ie">SFI Center for Research Training in Foundations in Data Science</a> </li>
+            <li> Expected to graduate in 2026</li>
+        </ul>
+        </li>
+    <li> BSc Psychology (2018 - 2022)
+        <ul>
+            <li> Final grade: 72%</li>
+            <li> Ranked 4<sup>th</sup> out of a class of 21</li>
+            <li> Thesis: Academic Procrastination and Perfectionism – The Mediating Role of Temporal Thought</li>
+        </ul>
+        </li>
+    </ul>
 
-
-<h4 align="center"> Connect with me: </h4>
-<div align="center">
-    <a href="https://twitter.com/CormacMonaghan1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 	
-  <a href="https://www.linkedin.com/in/cormac-monaghan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.researchgate.net/profile/Cormac-Monaghan" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a> 
-  <a href="mailto:cormacmonaghan@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a> 
+<h3 align="left"> 🚀 Github Stats </h3>
+<div align="left">
+    <a href="https://github.com/C-Monaghan">
+    <img src="https://github-readme-stats.vercel.app/api?username=C-Monaghan&show_icons=true&theme=transparent" alt="C-Monaghan's GitHub stats">
+    </a>
 </div>
+</details>
 
-
-<h3 align="left"> Chess.com stats </h3>
+<details>
+    <summary>
+        Check out my chess ratings and recent games
+    </summary>
+    
+<h4 align="Left"> Follow me on Chess.com: <a href="https://www.chess.com/member/ash3nfire"> Ash3nFire</a></h4>
 
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
@@ -42,8 +66,19 @@
 | **Ash3nFire** | pieroz | timeout ❌ | 31/5/2023 | Bullet |
 
 <!--END_SECTION:chessStats-->
+</details>
+
+---
+
+<h4 align="center"> Connect with me: </h4>
+<div align="center">
+    <a href="https://twitter.com/CormacMonaghan1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 	
+  <a href="https://www.linkedin.com/in/cormac-monaghan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.researchgate.net/profile/Cormac-Monaghan" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a> 
+  <a href="mailto:cormacmonaghan@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a> 
+</div>
+
+---
 
 <!---
-C-Monaghan/C-Monaghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
