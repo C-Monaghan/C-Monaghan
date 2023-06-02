@@ -54,16 +54,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1062 | 835 | 868 |
+| Current | 1062 | 835 | 871 |
 | Best | 1102 | 1106 | 921 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|
-| Eancient0ne | **Ash3nFire** | resigned ❌ | 31/5/2023 | Blitz |
-| nathanangxlo | **Ash3nFire** | resigned ❌ | 31/5/2023 | Blitz |
-| **Ash3nFire** | nikhilrocky | resigned ❌ | 31/5/2023 | Bullet |
-| **Ash3nFire** | Jah420allday | win 🥇 | 31/5/2023 | Bullet |
-| **Ash3nFire** | pieroz | timeout ❌ | 31/5/2023 | Bullet |
+| **Ash3nFire** | GameOver858 | win 🥇 | 1/6/2023 | Bullet |
+| SevereFlame | **Ash3nFire** | resigned ❌ | 1/6/2023 | Bullet |
+| **Ash3nFire** | JoeBydet | resigned ❌ | 1/6/2023 | Bullet |
+| loistf | **Ash3nFire** | win 🥇 | 1/6/2023 | Bullet |
+| BriamMele | **Ash3nFire** | resigned ❌ | 1/6/2023 | Bullet |
 
 <!--END_SECTION:chessStats-->
 </details>
