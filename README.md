@@ -54,16 +54,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1062 | 840 | 812 |
+| Current | 1062 | 834 | 804 |
 | Best | 1102 | 1106 | 921 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|
+| **Ash3nFire** | mkramski | resigned ❌ | 6/6/2023 | Blitz |
+| **Ash3nFire** | ARGardezi | win 🥇 | 6/6/2023 | Bullet |
+| qclima243 | **Ash3nFire** | checkmated ❌ | 6/6/2023 | Bullet |
+| kauchuk1700 | **Ash3nFire** | resigned ❌ | 6/6/2023 | Bullet |
 | **Ash3nFire** | Slwma | checkmated ❌ | 3/6/2023 | Blitz |
-| abdullahsa12 | **Ash3nFire** | win 🥇 | 3/6/2023 | Blitz |
-| Thresh123 | **Ash3nFire** | resigned ❌ | 2/6/2023 | Bullet |
-| **Ash3nFire** | NbaHungBoi | resigned ❌ | 2/6/2023 | Bullet |
-| **Ash3nFire** | sweeper702 | resigned ❌ | 2/6/2023 | Bullet |
 
 <!--END_SECTION:chessStats-->
 </details>
