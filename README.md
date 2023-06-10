@@ -54,16 +54,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1062 | 834 | 802 |
+| Current | 1062 | 834 | 812 |
 | Best | 1102 | 1106 | 921 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|
+| notaslaugheranymore | **Ash3nFire** | win 🥇 | 9/6/2023 | Bullet |
 | **Ash3nFire** | Hectorm86 | win 🥇 | 8/6/2023 | Bullet |
 | eat_the_rich1966 | **Ash3nFire** | resigned ❌ | 8/6/2023 | Bullet |
 | **Ash3nFire** | KV192 | resigned ❌ | 8/6/2023 | Bullet |
 | Franka122 | **Ash3nFire** | win 🥇 | 8/6/2023 | Bullet |
-| **Ash3nFire** | mkramski | resigned ❌ | 6/6/2023 | Blitz |
 
 <!--END_SECTION:chessStats-->
 </details>
