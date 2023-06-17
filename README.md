@@ -54,16 +54,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1062 | 833 | 838 |
+| Current | 1062 | 833 | 849 |
 | Best | 1102 | 1106 | 921 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|
-| fisalfardana | **Ash3nFire** | win 🥇 | 15/6/2023 | Bullet |
-| Lakshanpramodya | **Ash3nFire** | win 🥇 | 15/6/2023 | Bullet |
-| **Ash3nFire** | Jlucash | win 🥇 | 14/6/2023 | Bullet |
-| **Ash3nFire** | arthusallibert | resigned ❌ | 14/6/2023 | Bullet |
-| Mi7692 | **Ash3nFire** | win 🥇 | 14/6/2023 | Bullet |
+| RSH11 | **Ash3nFire** | resigned ❌ | 16/6/2023 | Bullet |
+| **Ash3nFire** | Kiseljak79 | agreed ⏸️ | 16/6/2023 | Bullet |
+| jdolmen | **Ash3nFire** | win 🥇 | 16/6/2023 | Bullet |
+| noresign | **Ash3nFire** | win 🥇 | 16/6/2023 | Bullet |
+| **Ash3nFire** | kangurDDL | win 🥇 | 16/6/2023 | Bullet |
 
 <!--END_SECTION:chessStats-->
 </details>
