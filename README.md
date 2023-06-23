@@ -42,32 +42,6 @@
 </div>
 </details>
 
-<details>
-    <summary>
-        Check out my chess ratings and recent games
-    </summary>
-    
-<h4 align="Left"> Follow me on Chess.com: <a href="https://www.chess.com/member/ash3nfire"> Ash3nFire</a></h4>
-
-<!--START_SECTION:chessStats-->
-<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
-
-| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
-|:---:|:---:|:---:|:---:|
-| Current | 1062 | 809 | 849 |
-| Best | 1102 | 1106 | 921 |
-
-| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Type 🕕 |
-|:---:|:---:|:---:|:---:|:---:|
-| **Ash3nFire** | hap_660 | resigned ❌ | 18/6/2023 | Blitz |
-| **Ash3nFire** | AleD84 | resigned ❌ | 17/6/2023 | Blitz |
-| RSH11 | **Ash3nFire** | resigned ❌ | 16/6/2023 | Bullet |
-| **Ash3nFire** | Kiseljak79 | agreed ⏸️ | 16/6/2023 | Bullet |
-| jdolmen | **Ash3nFire** | win 🥇 | 16/6/2023 | Bullet |
-
-<!--END_SECTION:chessStats-->
-</details>
-
 ---
 <h4 align="left"> Currently Playing: </h4>
 <div align="center">
