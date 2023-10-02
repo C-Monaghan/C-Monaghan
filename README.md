@@ -19,20 +19,41 @@
 <h3 align="left"> 🏫 Education </h3>
 <h4 align="left"> Maynooth University </h4>
 <ul>
-    <li> PhD. Data Science (2022 - Present)
+    <li> PhD. Data Science (Sept. 2022 - Present)
         <ul>
             <li> Part of <a href="https://www.data-science.ie">SFI Center for Research Training in Foundations in Data Science</a> </li>
             <li> Expected to graduate in 2026</li>
         </ul>
         </li>
-    <li> BSc Psychology (2018 - 2022)
+    <li> BSc Psychology (Sept. 2018 - May. 2022)
         <ul>
-            <li> Final grade: 72%</li>
-            <li> Ranked 4<sup>th</sup> out of a class of 21</li>
-            <li> Thesis: Academic Procrastination and Perfectionism – The Mediating Role of Temporal Thought</li>
+            <li> Final grade: 72% </li>
+            <li> Ranked 4<sup>th</sup> out of a class of 21 </li>
+            <li> Thesis: Academic Procrastination and Perfectionism – The Mediating Role of Temporal Thought </li>
         </ul>
         </li>
     </ul>
+
+<h3 align="left"> 📋 Experience </h3>
+<ul>
+    <h4 align="left"> Teaching Assistant - Maynooth University (Sept. 2023 - Present) </h4>
+        <ul>
+            <li> Providing teaching support for both statistical and advanced research methods in psychology to undergraduate and master students </li>
+        </ul>
+    <h4 align="left"> Quantitative Risk Analyst - Grant Thornton (June 2023 - Aug. 2023) </h4>
+        <ul>
+            <li> Designed and implemented a decision making toolkit for binary classification problems such as loan defaults, credit card risk, and fraud detection </li>
+        </ul>
+    <h4 align="left"> Student Intern - Connolly Conselling Centre (Feb. 2021 - May 2021) </h4>
+        <ul>
+            <li> Carried out several research and design projects under the supervision of Dr. Susan Byrne.Carried out several research and design projects under the supervision of Dr. Susan Byrne </li>
+        </ul>
+    <h4 align="left"> Research Assistant - Maynooth University (Sept. 2020 - Dec. 2020) </h4>
+        <ul>
+            <li> Worked with Dr. Richard Roche as a research assistant on the topic of autobiographical memory, along with several other projects </li>
+        </ul>
+</ul>
+
 
 <h3 align="left"> 🚀 Github Stats </h3>
 <div align="left">
