@@ -36,7 +36,7 @@
 
 <h3 align="left"> 📋 Experience </h3>
 <ul>
-    <h4 align="left"> Teaching Assistant - Maynooth University (Sept. 2023 - Present) </h4>
+    <h4 align="left"> Teaching Assistant - Maynooth University <br> (Sept. 2023 - Present) </h4>
         <ul>
             <li> Providing teaching support for both statistical and advanced research methods in psychology to undergraduate and master students </li>
         </ul>
