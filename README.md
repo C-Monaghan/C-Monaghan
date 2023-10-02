@@ -7,9 +7,9 @@
 
 <h3 align="left"> About me</h3>
 
-- 🎓 I'm currently a PhD Student at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
-- 🧠 I’m currently working on modelling the predictors and consequences of procrastination in older adults
-- 🌱 I’m currently learning R and Structural Equation Modelling methods
+- 🎓 I'm a PhD Student at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
+- 🧠 My work involves analysing the predictors and consequences of procrastination in older adults
+- 🌱 I’m currently working with R and occasionally Python
 
 <details>
     <summary>
