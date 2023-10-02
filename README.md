@@ -40,15 +40,15 @@
         <ul>
             <li> Providing teaching support for both statistical and advanced research methods in psychology to undergraduate and master students </li>
         </ul>
-    <h4 align="left"> Quantitative Risk Analyst - Grant Thornton (June 2023 - Aug. 2023) </h4>
+    <h4 align="left"> Quantitative Risk Analyst - Grant Thornton <br> (June 2023 - Aug. 2023) </h4>
         <ul>
             <li> Designed and implemented a decision making toolkit for binary classification problems such as loan defaults, credit card risk, and fraud detection </li>
         </ul>
-    <h4 align="left"> Student Intern - Connolly Conselling Centre (Feb. 2021 - May 2021) </h4>
+    <h4 align="left"> Student Intern - Connolly Conselling Centre <br> (Feb. 2021 - May 2021) </h4>
         <ul>
             <li> Carried out several research and design projects under the supervision of Dr. Susan Byrne.Carried out several research and design projects under the supervision of Dr. Susan Byrne </li>
         </ul>
-    <h4 align="left"> Research Assistant - Maynooth University (Sept. 2020 - Dec. 2020) </h4>
+    <h4 align="left"> Research Assistant - Maynooth University <br> (Sept. 2020 - Dec. 2020) </h4>
         <ul>
             <li> Worked with Dr. Richard Roche as a research assistant on the topic of autobiographical memory, along with several other projects </li>
         </ul>
