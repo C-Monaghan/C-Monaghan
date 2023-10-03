@@ -46,11 +46,11 @@
         </ul>
     <h4 align="left"> Student Intern - Connolly Conselling Centre <br> (Feb. 2021 - May 2021) </h4>
         <ul>
-            <li> Carried out several research and design projects under the supervision of Dr. Susan Byrne.Carried out several research and design projects under the supervision of Dr. Susan Byrne </li>
+            <li> Carried out several research and design projects under the supervision of <a href="https://www.counsellor.ie/team/susan-byrne/"> Dr. Susan Byrne. </a> </li>
         </ul>
     <h4 align="left"> Research Assistant - Maynooth University <br> (Sept. 2020 - Dec. 2020) </h4>
         <ul>
-            <li> Worked with Dr. Richard Roche as a research assistant on the topic of autobiographical memory, along with several other projects </li>
+            <li> Worked with <a href="https://www.maynoothuniversity.ie/people/richard-roche"> Dr. Richard Roche </a> as a research assistant on the topic of autobiographical memory, along with several other projects </li>
         </ul>
 </ul>
 
