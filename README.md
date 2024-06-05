@@ -35,25 +35,38 @@
     </ul>
 
 <h3 align="left"> 📋 Experience </h3>
-<ul>
-    <h4 align="left"> Teaching Assistant - Maynooth University <br> (Sept. 2023 - Present) </h4>
-        <ul>
-            <li> Providing teaching support for both statistical and advanced research methods in psychology to undergraduate and master students </li>
-        </ul>
-    <h4 align="left"> Quantitative Risk Analyst - Grant Thornton <br> (June 2023 - Aug. 2023) </h4>
-        <ul>
-            <li> Designed and implemented a decision making toolkit for binary classification problems such as loan defaults, credit card risk, and fraud detection </li>
-        </ul>
-    <h4 align="left"> Student Intern - Connolly Conselling Centre <br> (Feb. 2021 - May 2021) </h4>
-        <ul>
-            <li> Carried out several research and design projects under the supervision of <a href="https://www.counsellor.ie/team/susan-byrne/"> Dr. Susan Byrne. </a> </li>
-        </ul>
-    <h4 align="left"> Research Assistant - Maynooth University <br> (Sept. 2020 - Dec. 2020) </h4>
-        <ul>
-            <li> Worked with <a href="https://www.maynoothuniversity.ie/people/richard-roche"> Dr. Richard Roche </a> as a research assistant on the topic of autobiographical memory, along with several other projects </li>
-        </ul>
-</ul>
-
+<table border="1">
+  <tr>
+    <th>Position</th>
+    <th>Institution</th>
+    <th>Duration</th>
+    <th>Responsibilities</th>
+  </tr>
+  <tr>
+    <td>Teaching Assistant</td>
+    <td>Maynooth University</td>
+    <td>Sept. 2023 - Present</td>
+    <td>Providing teaching support for both statistical and advanced research methods in psychology to undergraduate and master students</td>
+  </tr>
+  <tr>
+    <td>Quantitative Risk Analyst</td>
+    <td>Grant Thornton</td>
+    <td>June 2023 - Aug. 2023</td>
+    <td>Designed and implemented a decision-making toolkit for binary classification problems such as loan defaults, credit card risk, and fraud detection</td>
+  </tr>
+  <tr>
+    <td>Research Intern</td>
+    <td>Connolly Counselling Centre</td>
+    <td>Feb. 2021 - May 2021</td>
+    <td>Carried out several research and design projects under the supervision of <a href="https://www.counsellor.ie/team/susan-byrne/">Dr. Susan Byrne</a></td>
+  </tr>
+  <tr>
+    <td>Research Assistant</td>
+    <td>Maynooth University</td>
+    <td>Sept. 2020 - Dec. 2020</td>
+    <td>Worked with <a href="https://www.maynoothuniversity.ie/people/richard-roche">Dr. Richard Roche</a> as a research assistant on the topic of autobiographical memory, along with several other projects</td>
+  </tr>
+</table>
 
 <h3 align="left"> 🚀 Github Stats </h3>
 <div align="left">
