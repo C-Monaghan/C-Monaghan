@@ -5,36 +5,30 @@
 
 ---
 
-<h3 align="left"> About me</h3>
+### 🙋‍♂️ About Me
 
-- 🎓 I'm a PhD Student at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
-- 🧠 My work involves analysing the predictors and consequences of procrastination in older adults
+- 🎓 I'm a PhD researcher at [SFI Centre for Research Training in Foundations of Data Science](https://www.data-science.ie)
+- 🧠 My work involves applying statistical models to the analysis the of procrastination in older adults
 - 🌱 I’m currently working with R and occasionally Python
 
 <details>
     <summary>
         More about me
     </summary>
-    
-<h3 align="left"> 🏫 Education </h3>
-<h4 align="left"> Maynooth University </h4>
-<ul>
-    <li> PhD. Data Science (Sept. 2022 - Present)
-        <ul>
-            <li> Part of <a href="https://www.data-science.ie">SFI Center for Research Training in Foundations in Data Science</a> </li>
-            <li> Expected to graduate in 2026</li>
-        </ul>
-        </li>
-    <li> BSc Psychology (Sept. 2018 - May. 2022)
-        <ul>
-            <li> Final grade: 72% </li>
-            <li> Ranked 4<sup>th</sup> out of a class of 21 </li>
-            <li> Thesis: Academic Procrastination and Perfectionism – The Mediating Role of Temporal Thought </li>
-        </ul>
-        </li>
-    </ul>
 
-<h3 align="left"> 📋 Experience </h3>
+### 🎓 Education
+#### Maynooth University
+
+* PhD Data Science (Sept. 2022 - Present)
+    * Part of [SFI Center for Research Training in Foundations in Data Science](https://www.data-science.ie)
+    * Expected to graduate in 2026
+* BSc Psychology (Sept. 2018 - May. 2022)
+    * Final grade: 72%
+    * Ranked 4th out of a class of 21
+    * Thesis: Academic Procrastination and Perfectionism – The Mediating Role of Temporal Thought
+
+### 📋 Experience
+
 <table border="1">
   <tr>
     <th>Position</th>
@@ -68,7 +62,7 @@
   </tr>
 </table>
 
-<h3 align="left"> 🚀 Github Stats </h3>
+### 🚀 Github Stats
 <div align="center">
     <a href="https://github.com/C-Monaghan">
     <img src="https://github-readme-stats-c-monaghan.vercel.app/api?username=C-Monaghan&show_icons=true&theme=transparent" alt="C-Monaghan's GitHub stats">
@@ -77,7 +71,7 @@
 </details>
 
 ---
-<h4 align="left"> Currently Playing: </h4>
+#### 🎶 Currently Playing:
 <div align="center">
   <a href="https://open.spotify.com/user/21ombhca2igssh3rq4o2trgfq">
     <img src="https://novatorem-git-main-c-monaghan.vercel.app/api/spotify" alt="Spotify">
