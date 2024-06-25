@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css">
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=C-Monaghan&color=blueviolet" /> </p>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> Hi, I’m @C-Monaghan </h1>
 <h4 align="center"> Psychologist, Data Scientist, & Chess Player </h4>
@@ -7,17 +5,11 @@
 
 ---
 
-<div class="container">
-  <h3>About me</h3>
-  <div>
-    <img src="https://github.com/C-Monaghan/C-Monaghan/assets/89480646/9bd5bcbe-f445-422b-86df-53378ec35f77" style="width:100px;height:100px;">
-    <ul>
-      <li> I'm a PhD researcher at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a></li>
-      <li> My work involves applying statistical models to the analyis of procrastination in older adults</li>
-      <li> I’m currently working with R and occasionally Python</li>
-    </ul>
-  </div>
-</div>
+<h3 align="left"> About me</h3>
+
+- 🎓 I'm a PhD Student at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
+- 🧠 My work involves analysing the predictors and consequences of procrastination in older adults
+- 🌱 I’m currently working with R and occasionally Python
 
 <details>
     <summary>
