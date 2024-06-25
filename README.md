@@ -7,8 +7,8 @@
 
 <h3 align="left"> About me</h3>
 
-- 🎓 I'm a PhD Student at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
-- 🧠 My work involves analysing the predictors and consequences of procrastination in older adults
+- 🎓 I'm a PhD researcher at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
+- 🧠 My work involves applying statistical models to the analyis of procrastination in older adults
 - 🌱 I’m currently working with R and occasionally Python
 
 <details>
