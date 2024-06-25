@@ -69,7 +69,7 @@
 </table>
 
 <h3 align="left"> 🚀 Github Stats </h3>
-<div align="left">
+<div align="center">
     <a href="https://github.com/C-Monaghan">
     <img src="https://github-readme-stats-c-monaghan.vercel.app/api?username=C-Monaghan&show_icons=true&theme=transparent" alt="C-Monaghan's GitHub stats">
     </a>
