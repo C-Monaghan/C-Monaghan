@@ -65,7 +65,7 @@
 ### 🚀 Github Stats
 <div align="center">
     <a href="https://github.com/C-Monaghan">
-    <img src="https://github-readme-stats-c-monaghan.vercel.app/api?username=C-Monaghan&show_icons=true&theme=transparent" alt="C-Monaghan's GitHub stats">
+    <img src="https://github-readme-stats-git-master-cmonaghans-projects.vercel.app/api?username=C-Monaghan&show_icons=true&theme=transparent" alt="C-Monaghan's GitHub stats">
     </a>
 </div>
 </details>
