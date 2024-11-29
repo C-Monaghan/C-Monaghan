@@ -80,7 +80,7 @@
 
 <h4 align="center"> Connect with me: </h4>
 <div align="center">
-    <a href="https://twitter.com/CormacMonaghan1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 	
+    <a href="https://twitter.com/CormacMonaghan1" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 	
   <a href="https://www.linkedin.com/in/cormac-monaghan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.researchgate.net/profile/Cormac-Monaghan" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a> 
   <a href="mailto:cormacmonaghan@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a> 
