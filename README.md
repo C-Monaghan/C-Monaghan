@@ -3,7 +3,9 @@
 <h4 align="center"> Psychologist, Data Scientist, & Chess Player </h4>
 <h4 align="center"> Come play in my <a href="https://github.com/C-Monaghan/Chess"> open chess tournament</a></h4>
 
-[![Follow me on Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://bsky.app/profile/c-monaghan.bsky.social)
+[![Follow me on Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://bsky.app/profile/c-monaghan.bsky.social) &nbsp;
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://www.linkedin.com/in/cormac-monaghan/) &nbsp;
+
 
 ---
 
