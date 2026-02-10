@@ -11,64 +11,12 @@
 - 🧠 My work involves applying statistical models to the analysis the of procrastination in older adults
 - 🌱 I’m currently working with R and occasionally Python
 
-<details>
-    <summary>
-        More about me
-    </summary>
-
-### 🎓 Education
-#### Maynooth University
-
-* PhD Data Science (Sept. 2022 - Present)
-    * Part of [SFI Center for Research Training in Foundations in Data Science](https://www.data-science.ie)
-    * Expected to graduate in 2026
-* BSc Psychology (Sept. 2018 - May. 2022)
-    * Final grade: 72%
-    * Ranked 4th out of a class of 21
-    * Thesis: Academic Procrastination and Perfectionism – The Mediating Role of Temporal Thought
-
-### 📋 Experience
-
-<table border="1">
-  <tr>
-    <th>Position</th>
-    <th>Institution</th>
-    <th>Duration</th>
-    <th>Responsibilities</th>
-  </tr>
-  <tr>
-    <td>Teaching Assistant</td>
-    <td>Maynooth University</td>
-    <td>Sept. 2023 - Present</td>
-    <td>Providing teaching support for both statistical and advanced research methods in psychology to undergraduate and master students</td>
-  </tr>
-  <tr>
-    <td>Quantitative Risk Analyst</td>
-    <td>Grant Thornton</td>
-    <td>June 2023 - Aug. 2023</td>
-    <td>Designed and implemented a decision-making toolkit for binary classification problems such as loan defaults, credit card risk, and fraud detection</td>
-  </tr>
-  <tr>
-    <td>Research Intern</td>
-    <td>Connolly Counselling Centre</td>
-    <td>Feb. 2021 - May 2021</td>
-    <td>Carried out several research and design projects under the supervision of <a href="https://www.counsellor.ie/team/susan-byrne/">Dr. Susan Byrne</a></td>
-  </tr>
-  <tr>
-    <td>Research Assistant</td>
-    <td>Maynooth University</td>
-    <td>Sept. 2020 - Dec. 2020</td>
-    <td>Worked with <a href="https://www.maynoothuniversity.ie/people/richard-roche">Dr. Richard Roche</a> as a research assistant on the topic of autobiographical memory, along with several other projects</td>
-  </tr>
-</table>
-
 ### 🚀 Github Stats
 <div align="center">
     <a href="https://github.com/C-Monaghan">
     <img src="https://github-readme-stats-git-master-cmonaghans-projects.vercel.app/api?username=C-Monaghan&show_icons=true&theme=transparent" alt="C-Monaghan's GitHub stats">
     </a>
 </div>
-</details>
 
 ---
 #### 🎶 Currently Playing:
