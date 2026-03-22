@@ -24,15 +24,6 @@
 </div>
 
 ---
-#### 🎶 Currently Playing:
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21ombhca2igssh3rq4o2trgfq">
-    <img src="https://novatorem-git-main-c-monaghan.vercel.app/api/spotify" alt="Spotify">
-  </a>
-</div>
-
----
 
 <!---
 --->
